@@ -10,9 +10,10 @@ This is amazon replica
 
 - git clone https://github.com/AshaNarayana/amazon-ecommerce.git
 - yarn install
-## To start backend server 
+## To start backend server on port 5000
 - npm start  
-## To start frontend
+  
+## To start frontend react service on port 3000
 - cd amazona
 - npm start
 
