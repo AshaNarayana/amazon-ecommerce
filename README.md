@@ -2,6 +2,10 @@
 
 This is amazon replica
 
+[Image Information](https://github.com/AshaNarayana/amazon-ecommerce/blob/main/template/images/)
+
+![](/coverPage.PNG)
+
 ## Steps to install and run locally
 
 - git clone https://github.com/AshaNarayana/amazon-ecommerce.git
